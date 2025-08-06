@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksaf_kaal=self.webpackChunksaf_kaal||[]).push([[4355],{3353:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/SafKaalWiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

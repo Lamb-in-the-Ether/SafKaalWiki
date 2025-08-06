@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lamb-in-the-ether/SafKaalWiki/blog</id>
+    <title>SafKaal Wiki Blog</title>
+    <updated>2024-10-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lamb-in-the-ether/SafKaalWiki/blog"/>
+    <subtitle>SafKaal Wiki Blog</subtitle>
+    <icon>https://lamb-in-the-ether/SafKaalWiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Site is now Live!]]></title>
+        <id>https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live</id>
+        <link href="https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live"/>
+        <updated>2024-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Lamb in the Ether site!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-the-lamb-in-the-ether-site">Welcome to the Lamb in the Ether site!<a href="https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live#welcome-to-the-lamb-in-the-ether-site" class="hash-link" aria-label="Direct link to Welcome to the Lamb in the Ether site!" title="Direct link to Welcome to the Lamb in the Ether site!">​</a></h2>
+<p>It's a pleasure to have you here. Everyone at Lamb in the Ether is excited to share our thoughts, ideas and games with you! We hope you enjoy your stay and come back often to see what we're up to.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live#details" class="hash-link" aria-label="Direct link to Details" title="Direct link to Details">​</a></h2>
+<p>The site is built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> so check them out if you're interested in building your own site.
+Right now we're using github pages to host the site and for the moment we aren't expecting a lot of traffic so it should be fine. If we start to get more traffic we'll look into other hosting options such as Netlify.</p>
+<p>If you have any questions or comments feel free to reach out to us on our <a href="https://discord.com/invite/y6nZKTEZ9J" target="_blank" rel="noopener noreferrer">discord</a>! We'd love to hear from you.</p>
+<p>Cheers,<br>
+<!-- -->Elliott</p>]]></content>
+        <author>
+            <name>Elliott Ashby</name>
+            <uri>https://github.com/Aethar01</uri>
+        </author>
+        <category label="Misc" term="Misc"/>
+    </entry>
+</feed>

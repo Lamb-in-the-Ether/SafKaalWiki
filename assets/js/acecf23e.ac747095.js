@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksaf_kaal=self.webpackChunksaf_kaal||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/SafKaalWiki/blog","blogTitle":"Blog","authorsListPath":"/SafKaalWiki/blog/authors"}')}}]);

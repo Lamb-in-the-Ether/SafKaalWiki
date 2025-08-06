@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SafKaal Wiki Blog</title>
+        <link>https://lamb-in-the-ether/SafKaalWiki/blog</link>
+        <description>SafKaal Wiki Blog</description>
+        <lastBuildDate>Thu, 03 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[The Site is now Live!]]></title>
+            <link>https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live</link>
+            <guid>https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Lamb in the Ether site!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-the-lamb-in-the-ether-site">Welcome to the Lamb in the Ether site!<a href="https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live#welcome-to-the-lamb-in-the-ether-site" class="hash-link" aria-label="Direct link to Welcome to the Lamb in the Ether site!" title="Direct link to Welcome to the Lamb in the Ether site!">​</a></h2>
+<p>It's a pleasure to have you here. Everyone at Lamb in the Ether is excited to share our thoughts, ideas and games with you! We hope you enjoy your stay and come back often to see what we're up to.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="https://lamb-in-the-ether/SafKaalWiki/blog/Site-is-Live#details" class="hash-link" aria-label="Direct link to Details" title="Direct link to Details">​</a></h2>
+<p>The site is built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> so check them out if you're interested in building your own site.
+Right now we're using github pages to host the site and for the moment we aren't expecting a lot of traffic so it should be fine. If we start to get more traffic we'll look into other hosting options such as Netlify.</p>
+<p>If you have any questions or comments feel free to reach out to us on our <a href="https://discord.com/invite/y6nZKTEZ9J" target="_blank" rel="noopener noreferrer">discord</a>! We'd love to hear from you.</p>
+<p>Cheers,<br>
+<!-- -->Elliott</p>]]></content:encoded>
+            <category>Misc</category>
+        </item>
+    </channel>
+</rss>

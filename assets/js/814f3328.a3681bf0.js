@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksaf_kaal=self.webpackChunksaf_kaal||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Site is now Live!","permalink":"/SafKaalWiki/blog/Site-is-Live","unlisted":false,"date":"2024-10-03T00:00:00.000Z"}]}')}}]);
